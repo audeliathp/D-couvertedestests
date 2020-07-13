@@ -11,7 +11,7 @@ describe 'who is the biggest number' do
   end
 end
 
-=begin
+
 describe 'crazy stuff on strings' do
   # Reverse, upcase then removes all L, T and A.
   # Hint: google ruby string
@@ -38,7 +38,7 @@ describe '42 finder' do
   end
 end
 
-
+=begin
 describe 'crazy stuff on arrays' do
   # The magic_array function takes an array of number or an array of
   # array of number as parameter and return the same array :
